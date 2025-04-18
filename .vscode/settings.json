@@ -1,0 +1,39 @@
+{
+    "cSpell.words": [
+        "категоризации",
+        "резюмирования",
+        "рендерим",
+        "роутеров",
+        "Роуты",
+        "фронтендом",
+        "Юзернейм",
+        "юзернейму",
+        "dotenv",
+        "fastapi",
+        "levelname",
+        "nltk",
+        "officedocument",
+        "openpyxl",
+        "openxmlformats",
+        "punkt",
+        "pydantic",
+        "PYTHONUNBUFFERED",
+        "redoc",
+        "spreadsheetml",
+        "starlette",
+        "stopwords",
+        "textblob",
+        "uvicorn"
+    ],
+    "cSpell.ignoreWords": [
+        "бэкенд"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:telegram-news-claude}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
